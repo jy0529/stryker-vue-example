@@ -1,24 +1,10 @@
 # stryker-vue-example
 
-## Project setup
-```
-yarn install
-```
+A mutation testing example with Vue2 by stryker.js.
 
-### Compiles and hot-reloads for development
+## Getting Started
 ```
-yarn serve
-```
+yarn
 
-### Compiles and minifies for production
+yarn test:mutation
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
